@@ -1,2 +1,2 @@
 # Autocomplete
-A sample autocomplete to find a Belgium city!
+A sample autocomplete to find a city Belgium!
